@@ -3,6 +3,8 @@
 # Who: LCW
 # Other: nothing much...
 
+# here is some more stuff Lee added after the first commit to see how version control handles this
+
 
 library('RSQLite')
 
