@@ -5,6 +5,9 @@
 
 # here is some more stuff Lee added after the first commit to see how version control handles this
 
+######################################
+# even more stuff added around 2:11 pm   ##changing this line at 2:18 deleting next line of hasshes
+
 
 library('RSQLite')
 
