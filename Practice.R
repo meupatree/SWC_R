@@ -1,9 +1,9 @@
 # What: workshop
 # When: 2016-10-18
-# Who: LCW
+# Who: meee
 # Other: nothing much...
 
-# here is some more stuff Lee added after the first commit to see how version control handles this
+# here is some more stuff IIII added after the first commit to see how version control handles this
 
 ######################################
 # even more stuff added around 2:11 pm   ##changing this line at 2:18 deleting next line of hasshes
