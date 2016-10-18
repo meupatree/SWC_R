@@ -7,12 +7,12 @@
 
 ######################################
 # even more stuff added around 2:11 pm   ##changing this line at 2:18 deleting next line of hasshes
+## deleted the line below after conn that read:  #conn <- dbConnect(SQLite(), dbname='~/Desktop/survey.sqlite')
 
 
 library('RSQLite')
 
 conn <- dbConnect(SQLite(), dbname='C:/Users/Lilli/Desktop/survey.sqlite')
-#conn <- dbConnect(SQLite(), dbname='~/Desktop/survey.sqlite')
 
 
 tables <- dbListTables(conn)
