@@ -8,7 +8,7 @@
 ######################################
 # even more stuff added around 2:11 pm   ##changing this line at 2:18 deleting next line of hasshes
 ## deleted the line below after conn that read:  #conn <- dbConnect(SQLite(), dbname='~/Desktop/survey.sqlite')
-
+#simultaneously changing practice R code and csv data edit to RodHot
 
 library('RSQLite')
 
